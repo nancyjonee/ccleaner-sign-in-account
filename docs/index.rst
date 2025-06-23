@@ -7,7 +7,7 @@ How to Securely Sign In to Your CCleaner Account? 🔐
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://totaldefense-sign-in-account.readthedocs.io/en/latest/_images/signin.png
+.. image:: https://fixmestick-account-sign-in.readthedocs.io/en/latest/_images/signin.png
    :alt: My Project Logo
    :width: 400px
    :align: center
